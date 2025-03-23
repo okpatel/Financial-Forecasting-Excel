@@ -32,3 +32,9 @@ Develop a model to forecast financial metrics using **Excel**, incorporating for
 - Fluctuations observed **2018-2022**, with a peak in **2021**.  
 - 2023’s actual high value **matches forecasted value** (**199.07**).  
 - Forecast predicts **stable high values** from **2024-2026** (**199.47, 199.42, 199.37**).
+
+## **Setup & Usage**  
+### **Clone Repository**  
+To get started, clone the repository using the following command:  
+```sh
+git clone https://github.com/okpatel/Financial-Forecasting-Excel.git
